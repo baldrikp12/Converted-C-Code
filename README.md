@@ -1,7 +1,7 @@
 # Converted-C-Code
 
 Converted this C code to assembly.  
-
+```
 int find_min(int list[], int n) {
      int min, i; 
      min = list[0];
@@ -11,3 +11,4 @@ int find_min(int list[], int n) {
      } 
      return min; 
 }
+```
